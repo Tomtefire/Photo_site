@@ -1,1 +1,3 @@
 Pre: This will be my first attempt to create a better looking website
+
+Post: This was a decent challenge and fit me perfectly for practice, however i had some difficulties turning everything into the background-color i wanted instead of the main background-color. For some reason i had to change the background of every single element and just changing the parent element didnt apply to all children. 
